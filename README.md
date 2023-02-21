@@ -1,1 +1,1 @@
-This project is concept for study for create media website 3.0 .
+This project is concept study for create media website 3.0 .
